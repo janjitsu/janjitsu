@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janjitsu
 - 👀 I’m interested in Web Development and Devops
-- 🌱 I’m currently learning golang and react
+- 🌱 I’m currently learning golang, react and AWS
 - 💞️ I’m looking to collaborate on golang open source projects
 
 <!---
